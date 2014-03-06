@@ -15,4 +15,9 @@ Cookies come in many shapes, sizes and flavors!
 - OMG!!
 
 ## Flavors
-Too many to name
+- Chocolate Chip
+- Peanut Butter
+- Sugar
+- Butter
+
+...and many others!
